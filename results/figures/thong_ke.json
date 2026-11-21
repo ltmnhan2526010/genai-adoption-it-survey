@@ -1,0 +1,57 @@
+{
+  "n": 30,
+  "ty_le_dung_thuong_xuyen": 0.333,
+  "ty_le_chua_dung": 0.033,
+  "cronbach_alpha": 0.852,
+  "spearman_rho_mucdo_loiich": 0.916,
+  "likert": {
+    "Tiết kiệm thời gian": {
+      "mean": 3.73,
+      "sd": 0.74
+    },
+    "Tìm kiếm, xử lý TT": {
+      "mean": 3.67,
+      "sd": 0.88
+    },
+    "Phối hợp nhóm": {
+      "mean": 3.37,
+      "sd": 0.89
+    },
+    "Giảm việc lặp lại": {
+      "mean": 3.67,
+      "sd": 0.84
+    },
+    "Nâng cao kỹ năng": {
+      "mean": 3.13,
+      "sd": 0.82
+    }
+  },
+  "diem_loi_ich_theo_muc_do": {
+    "Chưa từng sử dụng": 1.8,
+    "Đã thử nhưng ít sử dụng": 3.05,
+    "Thỉnh thoảng": 3.63,
+    "Thường xuyên": 4.22
+  },
+  "cong_cu": {
+    "ChatGPT": 21,
+    "Microsoft Copilot": 11,
+    "GitHub Copilot": 10,
+    "Gemini": 5,
+    "Claude": 4
+  },
+  "kho_khan": {
+    "Lo ngại về bảo mật dữ liệu": 9,
+    "Kết quả AI chưa chính xác": 6,
+    "Chi phí sử dụng": 6,
+    "Thiếu thời gian tìm hiểu": 5,
+    "Thiếu kiến thức và kỹ năng": 4
+  },
+  "vai_tro": {
+    "Developer": 9,
+    "Business Analyst": 8,
+    "Tester/QA": 5,
+    "Project Manager": 4,
+    "Data Analyst": 3,
+    "Product Owner": 1
+  }
+}

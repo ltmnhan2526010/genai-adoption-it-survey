@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng phần mềm/dữ liệu này, vui lòng trích dẫn như sau."
+title: "genai-adoption-it-survey: Khảo sát mức độ ứng dụng AI tạo sinh trong công việc của nhân sự CNTT"
+type: software
+authors:
+  - family-names: "Le"
+    given-names: "Thi My Nhan"
+    affiliation: "Can Tho University"
+    # orcid: "https://orcid.org/0000-000X-XXXX-XXXX"   # bỏ dấu # sau khi có ORCID (BTH03 bài 1)
+repository-code: "https://github.com/<github-username>/genai-adoption-it-survey"
+license: MIT
+version: 1.0.0
+date-released: "2026-11-18"
+keywords:
+  - generative AI
+  - technology acceptance
+  - survey
+  - software engineering
