@@ -6,8 +6,8 @@ authors:
   - family-names: "Le"
     given-names: "Thi My Nhan"
     affiliation: "Can Tho University"
-    # orcid: "https://orcid.org/0000-000X-XXXX-XXXX"   # bỏ dấu # sau khi có ORCID (BTH03 bài 1)
-repository-code: "https://github.com/<github-username>/genai-adoption-it-survey"
+    # orcid: "https://orcid.org/my-orcid?emailVerified=true&orcid=0009-0006-4917-8549"   # bỏ dấu # sau khi có ORCID (BTH03 bài 1)
+repository-code: "https://github.com/ltmnhanm2526010/genai-adoption-it-survey"
 license: MIT
 version: 1.0.0
 date-released: "2026-11-18"
